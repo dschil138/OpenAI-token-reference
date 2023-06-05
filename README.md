@@ -1,4 +1,4 @@
-For use as a reference, this post, including this introductory text, is exactly 4086 tokens long (the context window of gpt-3.5-turbo as of March 11th, 2023).
+For use as a reference, this post, including this introductory text, is exactly 4096 tokens long (the context window of gpt-3.5-turbo as of March 11th, 2023).
 
 Moby Dick
 
